@@ -1,0 +1,45 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background-color: black;
+    margin-top: 3%;
+    
+}
+
+p{ /* Perguntas/Questions */
+    color: white;
+    font-size: 18px;
+    margin-left: 8%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 2%;
+
+}
+strong{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.answer{ /* Respostas/answer*/
+color: rgba(255, 255, 255, 0.726);
+margin-left: 10%;
+font-size: 15px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-top: 1%;
+}
+a{
+    color: white;
+    cursor: pointer;
+}
+
+a :hover{
+    color: gray;
+}
+
+
+
